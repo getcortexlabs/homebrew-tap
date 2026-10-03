@@ -1,6 +1,6 @@
 cask "marshall-mq" do
-  version "0.3.0"
-  sha256 "58de466c9b10bb1661607507c7526dce0da4e656899468325e987ff6d96b4b7e"
+  version "0.4.0"
+  sha256 "3789294f6293a1701035471e9d231add1ce8f0792a368b9b82bcb37f31a75c18"
 
   url "https://pub-38b90a5d8ac141cc9de645d4e6391562.r2.dev/Marshall-MQ-#{version}.dmg",
       verified: "pub-38b90a5d8ac141cc9de645d4e6391562.r2.dev/"
